@@ -20,8 +20,9 @@ Data Analysis: I enjoy exploring and analyzing data to extract valuable insights
 - **Healthcare Predictive Analysis** 🏥 – Leveraging AI to enhance patient care and decision-making.
 
 ### 📫 Let's Connect:
-- **Email:** [abdelrahmanali18903@gmail.com](mailto:abdelrahmanali18903@gmail.com)
-- **LinkedIn:** [linkedin.com/in/abdelrahmanali189](https://www.linkedin.com/in/abdelrahmanali189)
-- **Upwork:** [upwork.com/freelancers/~016cd1a0cc707a55f7](https://www.upwork.com/freelancers/~016cd1a0cc707a55f7)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [Abdelrahman Ali](https://www.linkedin.com/in/abdelrahmanali189/)  
+- ![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) [abdelrahmanali18903@gmail.com](mailto:abdelrahmanali18903@gmail.com)  
+- ![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white) [Upwork Profile](https://www.upwork.com/freelancers/~016cd1a0cc707a55f7)
+
 
 Looking forward to collaborating on exciting data-driven projects! 🚀
