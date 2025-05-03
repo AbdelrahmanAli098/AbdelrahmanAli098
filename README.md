@@ -6,8 +6,8 @@ I'm a **Data Scientist** specializing in machine learning and predictive analyti
 
 ## My Expertise
 
-Machine Learning: I have extensive experience in developing machine learning models for various applications, including natural language processing, predictive analytics.
-Deep Learning: I'm working with deep learning frameworks like TensorFlow and PyTorch.
+Machine Learning: I have extensive experience in developing machine learning models for various applications, including natural language processing, predictive analytics.  
+Deep Learning: I'm working with deep learning frameworks like TensorFlow and PyTorch.  
 Data Analysis: I enjoy exploring and analyzing data to extract valuable insights and trends. I'm skilled in using tools like pandas, NumPy, and Matplotlib for data manipulation and visualization.
 
 ### 🛠️ Tech Stack:
