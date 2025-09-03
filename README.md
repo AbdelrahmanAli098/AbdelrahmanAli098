@@ -2,7 +2,7 @@
 # Hi there! 👋
 
 I'm a **Data Scientist** specializing in machine learning and predictive analytics My work focuses on building data-driven solutions leveraging advanced AI, machine learning and deep learning . I have experience in data preprocessing, model development, and deployment using Python and SQL.
-🎓 I am currently senior student at Arab Open University 
+I am currently a juinor data scientist and machine learning engineer
 
 ## My Expertise
 
