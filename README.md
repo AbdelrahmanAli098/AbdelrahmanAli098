@@ -6,9 +6,11 @@ I am currently a juinor data scientist and machine learning engineer
 
 ## My Expertise
 
-Machine Learning: I have extensive experience in developing machine learning models for various applications, including natural language processing, predictive analytics.  
-Deep Learning: I'm working with deep learning frameworks like TensorFlow and PyTorch.  
-Data Analysis: I enjoy exploring and analyzing data to extract valuable insights and trends. I'm skilled in using tools like pandas, NumPy, and Matplotlib for data manipulation and visualization.
+**Machine Learning**: I have extensive experience in developing machine learning models for various applications, including natural language processing, predictive analytics.  
+
+**Deep Learning**: I'm working with deep learning frameworks like TensorFlow and PyTorch. 
+
+**Data Analysis**: I enjoy exploring and analyzing data to extract valuable insights and trends. I'm skilled in using tools like pandas, NumPy, and Matplotlib for data manipulation and visualization.
 
 ### 🛠️ Tech Stack:
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
