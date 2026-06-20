@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/AbdelrahmanAli098/AbdelrahmanAli098/main/assets/header-banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Building+Production-Ready+RAG+Systems;Computer+Vision+%7C+NLP+%7C+Generative+AI;Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Data+Scientist+%7C+Statistical+Modeling+%26+Insights;Building+Production-Ready+RAG+Systems;Computer+Vision+%7C+NLP+%7C+Generative+AI;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </a>
 <br/>
 <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-00A6FF?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -21,15 +21,16 @@
 ```python
 class AbdelrahmanAli:
     def __init__(self):
-        self.role = "Junior Machine Learning & AI Engineer"
+        self.role = "Junior Data Scientist & ML Engineer"
         self.based_in = "Cairo, Egypt"
-        self.focus = ["Computer Vision", "NLP", "RAG & LLM Systems", "MLOps"]
+        self.focus = ["Data Analysis", "Computer Vision", "NLP", "RAG & LLM Systems", "MLOps"]
 
     def say_hi(self):
         return "Let's build something intelligent together!"
 ```
 
 - 🔭 Hands-on with **end-to-end ML pipelines** — from EDA to deployment
+- 📊 Skilled in **statistical analysis & data visualization** (Pandas, Power BI, Plotly) to turn raw datasets into business insights
 - 🧠 Deep focus on **Computer Vision & NLP**, with growing expertise in **RAG / LLM systems**
 - ☁️ Exploring **Cloud & MLOps**: AWS, Docker, CI/CD, MLflow, DVC
 - 🎓 Dual-degree Computer Science (Data Science) graduate — Arab Open University & The Open University, UK
@@ -45,6 +46,14 @@ class AbdelrahmanAli:
 <br/>
 
 Supervised & Unsupervised Learning · Model Evaluation · Hyperparameter Tuning · Feature Engineering
+
+</details>
+
+<details>
+<summary><b>🔹 Data Analysis & Visualization</b></summary>
+<br/>
+
+Exploratory Data Analysis (EDA) · Statistical Analysis · Data Cleaning & Wrangling · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Power BI · Dash
 
 </details>
 
@@ -81,6 +90,14 @@ Document Ingestion, Chunking & Embedding Strategies · Vector Databases · Promp
 </details>
 
 <details>
+<summary><b>🔹 Databases & Cloud</b></summary>
+<br/>
+
+SQL (MySQL, PostgreSQL) · ETL/ELT Pipelines · AWS (EC2, S3, Lambda, RDS, IAM) · Cloud Architecture & Security Fundamentals
+
+</details>
+
+<details>
 <summary><b>🔹 MLOps & Deployment</b></summary>
 <br/>
 
@@ -106,6 +123,13 @@ FastAPI · Docker · MLflow · DVC · CI/CD Concepts · Model Deployment Pipelin
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+**Data Analysis & Visualization**
+<br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 **Deep Learning**
 <br/>
