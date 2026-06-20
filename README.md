@@ -24,8 +24,6 @@ class AbdelrahmanAli:
         self.role = "Junior Machine Learning & AI Engineer"
         self.based_in = "Cairo, Egypt"
         self.focus = ["Computer Vision", "NLP", "RAG & LLM Systems", "MLOps"]
-        self.currently_building = "Production-ready AI applications, end-to-end"
-        self.fun_fact = "I make models learn, then make them ship 🚀"
 
     def say_hi(self):
         return "Let's build something intelligent together!"
@@ -91,6 +89,8 @@ FastAPI · Docker · MLflow · DVC · CI/CD Concepts · Model Deployment Pipelin
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A6FF,100:7B2FF7&height=2&section=header" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/AbdelrahmanAli098/AbdelrahmanAli098/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -192,26 +192,17 @@ An OCR-to-summary pipeline: extracts text from scanned PDFs with EasyOCR, cleans
 
 </div>
 
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAli098&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A6FF,100:7B2FF7&height=2&section=header" width="100%"/>
 
 ## 📜 Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-In_Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-DataCamp-03EF62?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-DataCamp-03EF62?style=flat-square"/>
-<img src="https://img.shields.io/badge/ML_Engineer-DataCamp-03EF62?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Scientist_Associate-DataCamp-03EF62?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative_AI-AWS_x_Udacity-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-In_Progress-ffa879?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-DataCamp-228B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-DataCamp-228B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML_Engineer-DataCamp-228B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Scientist_Associate-DataCamp-228B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative_AI-AWS_x_Udacity-EE4C2C?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Big_Data_Associate-NTI-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/Data_Scientist-DEPI-blue?style=flat-square"/>
 
