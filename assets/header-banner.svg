@@ -1,0 +1,13 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00A6FF"/>
+      <stop offset="100%" stop-color="#7B2FF7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#bannerGrad)"/>
+  <path d="M0,140 C150,180 350,100 600,140 C850,180 1050,100 1200,140 L1200,180 L0,180 Z" fill="#0D1117" opacity="0.25"/>
+  <path d="M0,155 C200,190 400,120 600,155 C800,190 1000,120 1200,155 L1200,180 L0,180 Z" fill="#0D1117" opacity="0.4"/>
+  <text x="600" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#FFFFFF" text-anchor="middle">Abdelrahman Ali</text>
+  <text x="600" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#E6F2FF" text-anchor="middle">Junior Machine Learning &amp; AI Engineer</text>
+</svg>
