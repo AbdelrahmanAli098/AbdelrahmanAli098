@@ -5,19 +5,13 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Building+Production-Ready+RAG+Systems;Computer+Vision+%7C+NLP+%7C+Generative+AI;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </a>
-
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=AbdelrahmanAli098&label=Profile%20Views&color=00A6FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/AbdelrahmanAli098?label=Followers&style=for-the-badge&color=7B2FF7"/>
 <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-00A6FF?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
 <p>
   <a href="https://www.linkedin.com/in/abdelrahmanali189/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:abdelrahmanali18903@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AbdelrahmanAli098"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A6FF,100:7B2FF7&height=2&section=header" width="100%"/>
