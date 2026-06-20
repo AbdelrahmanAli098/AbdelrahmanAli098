@@ -60,7 +60,7 @@ CNNs · RNNs · LSTMs · Transformers · Transfer Learning · PyTorch & TensorFl
 <summary><b>🔹 Computer Vision</b></summary>
 <br/>
 
-Image Classification & Segmentation · Object Detection (YOLOv8) · Face Recognition · OCR · Vision Transformers (ViT) · Data Augmentation
+Image Classification & Segmentation · Object Detection (YOLO) · Face Recognition · OCR · Vision Transformers (ViT) · Data Augmentation
 
 </details>
 
@@ -116,7 +116,7 @@ FastAPI · Docker · MLflow · DVC · CI/CD Concepts · Model Deployment Pipelin
 **Computer Vision & NLP**
 <br/>
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
 
