@@ -164,10 +164,10 @@ FastAPI · Docker · MLflow · DVC · CI/CD Concepts · Model Deployment Pipelin
 
 ## 🚀 Featured Projects
 
-### 🤖 Production-Ready RAG Application
-*Python · FastAPI · Qdrant · Ollama · Inngest · Streamlit · Docker*
+### 🤖 Production-Ready Multilingual AI Assistant for Telecom Egypt
+*Python · FastAPI · Streamlit · Ollama · Qdrant · Faster-Whisper · Piper · EasyOCR · Docker*
 
-A full RAG system letting users upload PDFs and query them in natural language — featuring a scalable ingestion pipeline (chunking, embeddings, vector indexing), event-driven processing with Inngest, local LLM inference via Ollama, and a Streamlit front end. Fully containerized for reproducible deployment.
+Designed and deployed an end-to-end, fully local AI assistant powered by Retrieval-Augmented Generation (RAG), enabling users to interact through voice or text, query the official Telecom Egypt knowledge base, and analyze uploaded documents (PDF, DOCX, TXT, Images). Integrated Qwen2.5, BGE-M3 embeddings, Qdrant, OCR, speech recognition, and text-to-speech into a scalable Dockerized architecture delivering multilingual, source-grounded responses with complete data privacy.
 
 ---
 
